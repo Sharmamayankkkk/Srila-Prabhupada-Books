@@ -1,0 +1,77 @@
+
+{
+  "books": [
+    {
+      "id": "bg",
+      "name": "Bhagavad Gita As It Is",
+      "description": "The Bhagavad Gita ('Song of God') is a 700-verse Hindu scripture that is part of the epic Mahabharata, dated to the second half of the first millennium BCE and is typical of the Hindu synthesis.",
+      "coverImage": "/pictures/BhagvadGeeta.png",
+      "chapters": 18,
+      "chaptersData": [
+        { "title": "Observing the Armies on the Battlefield of Kuruksetra", "verses": 46 },
+        { "title": "Contents of the Gita Summarized", "verses": 72 },
+        { "title": "Karma-yoga", "verses": 43 },
+        { "title": "Transcendental Knowledge", "verses": 42 },
+        { "title": "Karma-yoga—Action in Krishna Consciousness", "verses": 29 },
+        { "title": "Sankhya-yoga", "verses": 47 },
+        { "title": "Knowledge of the Absolute", "verses": 30 },
+        { "title": "Attaining the Supreme", "verses": 28 },
+        { "title": "The Most Confidential Knowledge", "verses": 34 },
+        { "title": "The Opulence of the Absolute", "verses": 42 },
+        { "title": "The Universal Form", "verses": 55 },
+        { "title": "Devotional Service", "verses": 20 },
+        { "title": "Nature, the Enjoyer, and Consciousness", "verses": 35 },
+        { "title": "The Three Modes Of Material Nature", "verses": 27 },
+        { "title": "The Yoga of the Supreme Person", "verses": 20 },
+        { "title": "The Divine And Demoniac Natures", "verses": 24 },
+        { "title": "The Divisions of Faith", "verses": 28 },
+        { "title": "Conclusion—The Perfection of Renunciation", "verses": 78 }
+      ]
+    },
+    {
+      "id": "sb",
+      "name": "Srimad Bhagavatam",
+      "description": "The Srimad-Bhagavatam, also known as the Bhagavata Purana, is one of Hinduism's eighteen great Puranas. It contains transcendental knowledge to bring about a revolution in the impious lives of disinterested civilization.",
+      "coverImage": "/pictures/74e395de-fdcc-4187-9b93-5c439d2666fd.png",
+      "cantos": 12,
+      "cantosData": [
+        { "title": "Creation", "chapters": 19 },
+        { "title": "The Cosmic Manifestation", "chapters": 10 },
+        { "title": "The Status Quo", "chapters": 33 },
+        { "title": "The Creation of the Fourth Order", "chapters": 31 },
+        { "title": "The Creative Impetus", "chapters": 26 },
+        { "title": "Prescribed Duties for Mankind", "chapters": 19 },
+        { "title": "The Science of God", "chapters": 15 },
+        { "title": "Withdrawal of the Cosmic Creations", "chapters": 24 },
+        { "title": "Liberation", "chapters": 24 },
+        { "title": "The Summum Bonum", "chapters": 90 },
+        { "title": "General History", "chapters": 31 },
+        { "title": "The Age of Deterioration", "chapters": 13 }
+      ]
+    },
+    {
+      "id": "cc",
+      "name": "Sri Caitanya-caritamrta",
+      "description": "Sri Caitanya-caritamrta is the biography of Lord Caitanya Mahaprabhu written by Krishnadasa Kaviraja Goswami in the late 16th century. It describes in detail Lord Caitanya's life and teachings.",
+      "coverImage": "/pictures/bc68f0fc-0759-424f-a2f6-2ba3ae3c5612.png",
+      "parts": 3,
+      "partsData": [
+        {
+          "name": "Adi-lila",
+          "chapters": 17,
+          "description": "The initial portion describing Lord Caitanya's early life and teachings."
+        },
+        {
+          "name": "Madhya-lila",
+          "chapters": 25,
+          "description": "The middle portion detailing Lord Caitanya's travels and conversations."
+        },
+        {
+          "name": "Antya-lila",
+          "chapters": 20,
+          "description": "The final portion describing Lord Caitanya's later pastimes and teachings."
+        }
+      ]
+    }
+  ]
+}

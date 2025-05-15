@@ -1,0 +1,20 @@
+
+# Allow all bots to crawl the site
+User-agent: *
+Allow: /
+
+# Sitemap location (you would add this if you had a sitemap generated)
+# Sitemap: https://prabhupada-verse-vault.com/sitemap.xml
+
+# Specific rules for common bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Yandexbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
