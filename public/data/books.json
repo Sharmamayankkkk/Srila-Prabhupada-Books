@@ -32,7 +32,7 @@
       "id": "sb",
       "name": "Srimad Bhagavatam",
       "description": "The Srimad-Bhagavatam, also known as the Bhagavata Purana, is one of Hinduism's eighteen great Puranas. It contains transcendental knowledge to bring about a revolution in the impious lives of disinterested civilization.",
-      "coverImage": "/pictures/74e395de-fdcc-4187-9b93-5c439d2666fd.png",
+      "coverImage": "/pictures/Srila-Prabhupada.png",
       "cantos": 12,
       "cantosData": [
         { "title": "Creation", "chapters": 19 },
@@ -53,7 +53,7 @@
       "id": "cc",
       "name": "Sri Caitanya-caritamrta",
       "description": "Sri Caitanya-caritamrta is the biography of Lord Caitanya Mahaprabhu written by Krishnadasa Kaviraja Goswami in the late 16th century. It describes in detail Lord Caitanya's life and teachings.",
-      "coverImage": "/pictures/bc68f0fc-0759-424f-a2f6-2ba3ae3c5612.png",
+      "coverImage": "/pictures/KCS-Logo.png",
       "parts": 3,
       "partsData": [
         {

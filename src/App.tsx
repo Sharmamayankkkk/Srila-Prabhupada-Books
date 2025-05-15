@@ -11,6 +11,7 @@ import BookIndex from "./pages/BookIndex";
 import AboutPage from "./pages/AboutPage";
 import SearchPage from "./pages/SearchPage";
 import NotFound from "./pages/NotFound";
+import ComingSoon from "./pages/ComingSoon";
 
 const queryClient = new QueryClient();
 
@@ -22,7 +23,7 @@ const App = () => (
         <Sonner />
         <BrowserRouter>
           <Routes>
-            <Route path="/" element={<Index />} />
+            <Route path="/" element={<ComingSoon />} />
             <Route path="/books/:bookId" element={<BookPage />} />
             <Route path="/books/:bookId/:chapter" element={<BookPage />} />
             <Route path="/books/:bookId/:chapter/:verse" element={<BookPage />} />

@@ -40,7 +40,7 @@ const ShareVerseCard = React.forwardRef<HTMLDivElement, ShareVerseCardProps>(
           {/* Header with logo and title */}
           <div className="flex items-start gap-3 mb-5">
             <img 
-              src="/pictures/bc68f0fc-0759-424f-a2f6-2ba3ae3c5612.png" 
+              src="/pictures/KCS-Logo.png" 
               alt="KCS Logo" 
               className="h-10 object-contain" 
             />
