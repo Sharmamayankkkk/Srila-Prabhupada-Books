@@ -118,7 +118,7 @@ const ComingSoon = () => {
     // Show popup only on May 15th
     const today = new Date();
     const birthdayMonth = 4; // May is month 4 (0-indexed)
-    const birthdayDate = 16;
+    const birthdayDate = 18;
 
     if (today.getMonth() === birthdayMonth && today.getDate() === birthdayDate) {
       const lastShown = localStorage.getItem('gurudevBirthdayPopupLastShown');
