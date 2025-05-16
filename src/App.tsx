@@ -14,6 +14,7 @@ import NotFound from "./pages/NotFound";
 import ComingSoon from "./pages/ComingSoon";
 import DailyUpdateSignupUnsubscribe from "./components/DailyUpdateUnsubscribe";
 
+
 const queryClient = new QueryClient();
 
 const App = () => (
