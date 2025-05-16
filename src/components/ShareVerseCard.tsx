@@ -67,7 +67,7 @@ const ShareVerseCard = React.forwardRef<HTMLDivElement, ShareVerseCardProps>(
           {/* Footer */}
           <div className="flex justify-between items-center text-sm text-muted-foreground mt-5">
             <span>{verseIdentifier}</span>
-            <span>books.krishnaconnect.org</span>
+            <span>krishnaconnect.org</span>
           </div>
         </CardContent>
       </Card>
