@@ -2,24 +2,58 @@ import React, { useState } from 'react';
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { useToast } from "@/components/ui/use-toast";
+import { createClient } from '@supabase/supabase-js';
+import { supabase } from '@/lib/supabaseClient';
+
 
 const NewsletterSignup: React.FC = () => {
   const [email, setEmail] = useState('');
   const [isLoading, setIsLoading] = useState(false);
   const { toast } = useToast();
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setIsLoading(true);
     
-    setTimeout(() => {
-      setIsLoading(false);
+    try {
+      // Save to Supabase
+      const { error } = await supabase
+        .from('notify-subscribers')
+        .insert([{ email }]);
+      
+      if (error) {
+        // Check if it's a duplicate email error
+        if (error.code === '23505') {
+          toast({
+            title: "Already subscribed",
+            description: "This email is already on our list.",
+          });
+        } else {
+          console.error("Error saving email:", error);
+          toast({
+            title: "Something went wrong",
+            description: "Please try again later.",
+            variant: "destructive",
+          });
+        }
+      } else {
+        // Success
+        toast({
+          title: "Thanks for subscribing!",
+          description: "We'll notify you when we launch.",
+        });
+        setEmail('');
+      }
+    } catch (err) {
+      console.error("Error in subscription process:", err);
       toast({
-        title: "Thanks for subscribing!",
-        description: "We'll notify you when we launch.",
+        title: "Something went wrong",
+        description: "Please try again later.",
+        variant: "destructive",
       });
-      setEmail('');
-    }, 1000);
+    } finally {
+      setIsLoading(false);
+    }
   };
 
   return (

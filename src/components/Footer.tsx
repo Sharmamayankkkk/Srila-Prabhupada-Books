@@ -3,6 +3,8 @@ import { useState, useEffect } from 'react';
 import { BookOpen, Heart, Users, Facebook, Instagram, Youtube, MessageCircle } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
+import DailyUpdateSignup from '@/components/DailyUpdateSignup';
+
 
 const VisitorCounter = () => {
   const [count, setCount] = useState(0);
@@ -121,6 +123,11 @@ const Footer = () => {
               <p className="text-sm text-muted-foreground">
                 Join our community of devotees and spiritual seekers exploring Srila Prabhupada's timeless wisdom.
               </p>
+            </div>
+
+            <div className="mt-4">
+              <h5 className="text-sm font-medium mb-2 text-muted-foreground">Subscribe for Daily Nectar</h5>
+              <DailyUpdateSignup />
             </div>
           </div>
         </div>

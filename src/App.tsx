@@ -12,6 +12,7 @@ import AboutPage from "./pages/AboutPage";
 import SearchPage from "./pages/SearchPage";
 import NotFound from "./pages/NotFound";
 import ComingSoon from "./pages/ComingSoon";
+import DailyUpdateSignupUnsubscribe from "./components/DailyUpdateUnsubscribe";
 
 const queryClient = new QueryClient();
 
@@ -30,6 +31,7 @@ const App = () => (
             <Route path="/index" element={<BookIndex />} />
             <Route path="/about" element={<AboutPage />} />
             <Route path="/search" element={<SearchPage />} />
+            <Route path="/updates-unsubscribe" element={<DailyUpdateSignupUnsubscribe/>} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </BrowserRouter>
