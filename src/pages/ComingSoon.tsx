@@ -191,18 +191,6 @@ const ComingSoon = () => {
         </div>
 
         <motion.div
-          initial={{ opacity: 0, y: -20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8 }}
-          className="mb-8"
-        >
-          <h1 className="text-4xl md:text-6xl font-bold mb-4 gradient-text pb-3">Coming Soon</h1>
-          <p className="text-xl md:text-2xl text-muted-foreground mb-6">
-            Our sacred project goes live on May 18, 2025.
-          </p>
-        </motion.div>
-
-        <motion.div
           initial={{ opacity: 0, scale: 0.9 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.8, delay: 0.3 }}
