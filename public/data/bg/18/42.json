@@ -1,0 +1,67 @@
+{
+    "bookId": "bg",
+    "chapter": 18,
+    "verse": 42,
+    "devanagari": "शमो दमस्तप: शौचं क्षान्तिरार्जवमेव च ।\nज्ञानं विज्ञानमास्तिक्यं ब्रह्मकर्म स्वभावजम् ॥ ४२ ॥",
+    "transliteration": "śamo damas tapaḥ śaucaṁ\nkṣāntir ārjavam eva ca\njñānaṁ vijñānam āstikyaṁ\nbrahma-karma svabhāva-jam",
+    "synonyms": [
+        {
+            "word": "śamaḥ",
+            "meaning": "peacefulness"
+        },
+        {
+            "word": "damaḥ",
+            "meaning": "self-control"
+        },
+        {
+            "word": "tapaḥ",
+            "meaning": "austerity"
+        },
+        {
+            "word": "śaucam",
+            "meaning": "purity"
+        },
+        {
+            "word": "kṣāntiḥ",
+            "meaning": "tolerance"
+        },
+        {
+            "word": "ārjavam",
+            "meaning": "honesty"
+        },
+        {
+            "word": "eva",
+            "meaning": "certainly"
+        },
+        {
+            "word": "ca",
+            "meaning": "and"
+        },
+        {
+            "word": "jñānam",
+            "meaning": "wisdom"
+        },
+        {
+            "word": "vijñānam",
+            "meaning": "knowledge"
+        },
+        {
+            "word": "āstikyam",
+            "meaning": "religiousness"
+        },
+        {
+            "word": "brahma",
+            "meaning": "of a brāhmaṇa"
+        },
+        {
+            "word": "karma",
+            "meaning": "duty"
+        },
+        {
+            "word": "svabhāva-jam",
+            "meaning": "born of his own nature"
+        }
+    ],
+    "translation": "Peacefulness, self-control, austerity, purity, tolerance, honesty, wisdom, knowledge, and religiousness-these are the qualities by which the brāhmaṇas work.",
+    "purport": ""
+}

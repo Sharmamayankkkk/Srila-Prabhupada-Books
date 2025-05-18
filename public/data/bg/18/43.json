@@ -1,0 +1,71 @@
+{
+    "bookId": "bg",
+    "chapter": 18,
+    "verse": 43,
+    "devanagari": "शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम् ।\nदानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम् ॥ ४३ ॥",
+    "transliteration": "śauryaṁ tejo dhṛtir dākṣyaṁ\nyuddhe cāpy apalāyanam\ndānam īśvara-bhāvaś ca\nkṣātraṁ karma svabhāva-jam",
+    "synonyms": [
+        {
+            "word": "śauryam",
+            "meaning": "heroism"
+        },
+        {
+            "word": "tejaḥ",
+            "meaning": "power"
+        },
+        {
+            "word": "dhṛtiḥ",
+            "meaning": "determination"
+        },
+        {
+            "word": "dākṣyam",
+            "meaning": "resourcefulness"
+        },
+        {
+            "word": "yuddhe",
+            "meaning": "in battle"
+        },
+        {
+            "word": "ca",
+            "meaning": "and"
+        },
+        {
+            "word": "api",
+            "meaning": "also"
+        },
+        {
+            "word": "apalāyanam",
+            "meaning": "not fleeing"
+        },
+        {
+            "word": "dānam",
+            "meaning": "generosity"
+        },
+        {
+            "word": "īśvara",
+            "meaning": "leadership"
+        },
+        {
+            "word": "bhāvaḥ",
+            "meaning": "nature"
+        },
+        {
+            "word": "ca",
+            "meaning": "and"
+        },
+        {
+            "word": "kṣātram",
+            "meaning": "kṣatriya"
+        },
+        {
+            "word": "karma",
+            "meaning": "duty"
+        },
+        {
+            "word": "svabhāva-jam",
+            "meaning": "born of his own nature"
+        }
+    ],
+    "translation": "Heroism, power, determination, resourcefulness, courage in battle, generosity, and leadership are the qualities of work for the kṣatriyas.",
+    "purport": ""
+}

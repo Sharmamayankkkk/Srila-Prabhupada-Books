@@ -1,0 +1,55 @@
+{
+    "bookId": "bg",
+    "chapter": 18,
+    "verse": 41,
+    "devanagari": "ब्राह्मणक्षत्रियविशां श‍ूद्राणां च परन्तप ।\nकर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणै: ॥ ४१ ॥",
+    "transliteration": "brāhmaṇa-kṣatriya-viśāṁ\nśūdrāṇāṁ ca paran-tapa\nkarmāṇi pravibhaktāni\nsvabhāva-prabhavair guṇaiḥ",
+    "synonyms": [
+        {
+            "word": "brāhmaṇa",
+            "meaning": "the brāhmaṇas"
+        },
+        {
+            "word": "kṣatriya",
+            "meaning": "the kṣatriyas"
+        },
+        {
+            "word": "viśām",
+            "meaning": "the vaiśyas"
+        },
+        {
+            "word": "śūdrāṇām",
+            "meaning": "the śūdras"
+        },
+        {
+            "word": "ca",
+            "meaning": "and"
+        },
+        {
+            "word": "param-tapa",
+            "meaning": "O subduer of the enemies"
+        },
+        {
+            "word": "karmāṇi",
+            "meaning": "activities"
+        },
+        {
+            "word": "pravibhaktāni",
+            "meaning": "are divided"
+        },
+        {
+            "word": "svabhāva",
+            "meaning": "own nature"
+        },
+        {
+            "word": "prabhavaiḥ",
+            "meaning": "born of"
+        },
+        {
+            "word": "guṇaiḥ",
+            "meaning": "by the modes of material nature"
+        }
+    ],
+    "translation": "Brāhmaṇas, kṣatriyas, vaiśyas and śūdras are distinguished by their qualities of work, O chastiser of the enemy, in accordance with the modes of nature.",
+    "purport": ""
+}

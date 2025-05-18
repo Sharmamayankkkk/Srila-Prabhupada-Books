@@ -1,0 +1,63 @@
+{
+    "bookId": "book",
+    "chapter": 10,
+    "verse": 22,
+    "devanagari": "वेदानां सामवेदोऽस्मि देवानामस्मि वासवः ।\nइन्द्रियाणां मनश्चास्मि भूतानामस्मि चेतना ॥ २२॥",
+    "transliteration": "vedānāṁ sāma-vedo 'smi\ndevānām asmi vāsavaḥ\nindriyāṇāṁ manaś cāsmi\nbhūtānām asmi cetanā",
+    "synonyms": [
+        {
+            "word": "vedānām",
+            "meaning": "of all the Vedas"
+        },
+        {
+            "word": "sāma-vedaḥ",
+            "meaning": "the Sāma-veda"
+        },
+        {
+            "word": "asmi",
+            "meaning": "I am"
+        },
+        {
+            "word": "devānām",
+            "meaning": "of all the demigods"
+        },
+        {
+            "word": "asmi",
+            "meaning": "I am"
+        },
+        {
+            "word": "vāsavaḥ",
+            "meaning": "heavenly king"
+        },
+        {
+            "word": "indriyāṇām",
+            "meaning": "of all the senses"
+        },
+        {
+            "word": "manaḥ",
+            "meaning": "the mind"
+        },
+        {
+            "word": "ca",
+            "meaning": "also"
+        },
+        {
+            "word": "asmi",
+            "meaning": "I am"
+        },
+        {
+            "word": "bhūtānām",
+            "meaning": "of all living entities"
+        },
+        {
+            "word": "asmi",
+            "meaning": "I am"
+        },
+        {
+            "word": "cetanā",
+            "meaning": "the living force"
+        }
+    ],
+    "translation": "Of the Vedas I am the Sāma-veda; of the demigods I am Indra; of the senses I am the mind, and in living beings I am the living force [knowledge].",
+    "purport": "The difference between matter and spirit is that matter has no consciousness like the living entity; therefore this consciousness is supreme and eternal. Consciousness cannot be produced by a combination of matter."
+}
