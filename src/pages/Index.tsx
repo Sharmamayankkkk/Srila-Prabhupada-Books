@@ -108,7 +108,7 @@ const Index = () => {
                     <div className="absolute inset-0 rounded-2xl bg-gradient-to-tl from-amber-50 to-white shadow-xl transform -rotate-3"></div>
                     <div className="relative h-full w-full rounded-2xl p-3 bg-white shadow-lg overflow-hidden">
                       <img 
-                        src="/pictures/Srila-Prabhupada-Books/public/pictures/Srila-Prabhupada.png" 
+                        src="/pictures/Srila-Prabhupada.png" 
                         alt="Srila Prabhupada" 
                         className="w-full h-full object-cover rounded-xl" 
                       />
