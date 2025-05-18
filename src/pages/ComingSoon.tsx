@@ -88,7 +88,7 @@ const BirthdayPopup: React.FC<{ onClose: () => void }> = ({ onClose }) => {
           Wishing His Divine Grace a joyous birthday filled with blessings and grace.
         </p> */}
         <p className="text-gray-700 text-lg mt-4">
-          Happy Krishna Consciousness Birthday, Gurudev! On this auspicious day, we honor the divine life and teachings of His Grace, whose mission brought the timeless wisdom of the Vedas to the world.          <a
+          Happy Krishna Consciousness Birthday, Gurudev! On this auspicious day, we honor the divine life and teachings of His Grace, whose mission brought the timeless wisdom of the Vedas to the world.  <br />        <a
             href="https://www.krishnaconsciousnesssociety.com/h-g-gsd"
             target="_blank"
             rel="noopener noreferrer"
