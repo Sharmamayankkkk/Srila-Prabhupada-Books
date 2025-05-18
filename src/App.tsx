@@ -25,14 +25,14 @@ const App = () => (
         <Sonner />
         <BrowserRouter>
           <Routes>
-            <Route path="/" element={<ComingSoon />} />
+            <Route path="/" element={<Index />} />          
             <Route path="/books/:bookId" element={<BookPage />} />
             <Route path="/books/:bookId/:chapter" element={<BookPage />} />
             <Route path="/books/:bookId/:chapter/:verse" element={<BookPage />} />
             <Route path="/index" element={<BookIndex />} />
             <Route path="/about" element={<AboutPage />} />
             <Route path="/search" element={<SearchPage />} />
-            <Route path="/updates-unsubscribe" element={<DailyUpdateSignupUnsubscribe/>} />
+            <Route path="/updates-unsubscribe" element={<DailyUpdateSignupUnsubscribe />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </BrowserRouter>

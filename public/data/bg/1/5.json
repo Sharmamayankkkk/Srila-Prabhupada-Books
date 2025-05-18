@@ -1,0 +1,47 @@
+{
+    "bookId": "bg",
+    "chapter": 1,
+    "verse": 5,
+    "devanagari": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् ।\nपुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः ॥ ५ ॥",
+    "transliteration": "dhṛṣṭaketuś cekitānaḥ\nkāśirājaś ca vīryavān\npurujit kuntibhojaś ca\nśaibyaś ca nara-puṅgavaḥ",
+    "synonyms": [
+        {
+            "word": "dhṛṣṭaketuḥ",
+            "meaning": "Dhṛṣṭaketu"
+        },
+        {
+            "word": "cekitānaḥ",
+            "meaning": "Cekitāna"
+        },
+        {
+            "word": "kāśirājaḥ",
+            "meaning": "Kaśirāja"
+        },
+        {
+            "word": "ca",
+            "meaning": "also"
+        },
+        {
+            "word": "vīryavān",
+            "meaning": "very powerful"
+        },
+        {
+            "word": "purujit",
+            "meaning": "Purujit"
+        },
+        {
+            "word": "kuntibhojaḥ",
+            "meaning": "Kuntibhoja"
+        },
+        {
+            "word": "śaibyaḥ",
+            "meaning": "Śaibya"
+        },
+        {
+            "word": "nara-puṅgavaḥ",
+            "meaning": "heroes in human society"
+        }
+    ],
+    "translation": "There are also great, heroic, powerful fighters like Dhṛṣṭaketu, Cekitāna, Kāśirāja, Purujit, Kuntibhoja and Śaibya.",
+    "purport": ""
+}

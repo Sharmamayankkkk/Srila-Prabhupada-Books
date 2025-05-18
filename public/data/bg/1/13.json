@@ -1,0 +1,67 @@
+{
+    "bookId": "bg",
+    "chapter": 1,
+    "verse": 13,
+    "devanagari": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः ।\nसहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् ॥ १३ ॥",
+    "transliteration": "tataḥ śaṅkhāś ca bheryaś ca\npaṇavānaka-gomukhāḥ\nsahasaivābhyahanyanta\nsa śabdas tumulo ’bhavat",
+    "synonyms": [
+        {
+            "word": "tataḥ",
+            "meaning": "thereafter"
+        },
+        {
+            "word": "śaṅkhāḥ",
+            "meaning": "conchshells"
+        },
+        {
+            "word": "ca",
+            "meaning": "also"
+        },
+        {
+            "word": "bheryaḥ",
+            "meaning": "bugles"
+        },
+        {
+            "word": "ca",
+            "meaning": "and"
+        },
+        {
+            "word": "paṇava-ānaka",
+            "meaning": "trumpets and drums"
+        },
+        {
+            "word": "go-mukhāḥ",
+            "meaning": "horns"
+        },
+        {
+            "word": "sahasā",
+            "meaning": "all of a sudden"
+        },
+        {
+            "word": "eva",
+            "meaning": "certainly"
+        },
+        {
+            "word": "abhyahanyanta",
+            "meaning": "being simultaneously sounded"
+        },
+        {
+            "word": "saḥ",
+            "meaning": "that"
+        },
+        {
+            "word": "śabdaḥ",
+            "meaning": "combined sound"
+        },
+        {
+            "word": "tumulaḥ",
+            "meaning": "tumultuous"
+        },
+        {
+            "word": "abhavat",
+            "meaning": "became"
+        }
+    ],
+    "translation": "After that, the conchshells, bugles, trumpets, drums and horns were all suddenly sounded, and the combined sound was tumultuous.",
+    "purport": ""
+}
