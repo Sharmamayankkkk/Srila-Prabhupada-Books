@@ -78,7 +78,7 @@ const DailyUpdateSignup: React.FC = () => {
           placeholder="Get daily updates"
           value={email}
           onChange={(e) => setEmail(e.target.value)}
-          className="h-10 bg-white/70 border-amber-200"
+          className="h-10 bg-input text-foreground border-amber-200"
           required
         />
         <Button
