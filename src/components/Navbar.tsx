@@ -49,6 +49,9 @@ const Navbar = () => {
             <Link to="/about" className="text-foreground hover:text-primary transition-colors">
               About
             </Link>
+            <Link to="/index" className="text-foreground hover:text-primary transition-colors">
+              Book Index
+            </Link>
             <Link to="/search" className="text-foreground hover:text-primary transition-colors">
               <Search className="h-5 w-5" />
             </Link>
