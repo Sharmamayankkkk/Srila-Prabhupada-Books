@@ -192,7 +192,7 @@ const VerseDisplay = ({ verseData }: VerseDisplayProps) => {
               <h3 className="font-heading text-lg">Purport</h3>
             </div>
             
-            <div className="space-y-4">
+            <div className="space-y-4 text-justify">
               {verseData.purport.split('\n\n').map((para, index) => {
                 return <p key={index}>{para}</p>;
               })}

@@ -111,6 +111,13 @@ const Navbar = () => {
               About
             </Link>
             <Link
+              to="/index"
+              className="block px-3 py-2 rounded-md hover:bg-secondary transition-colors"
+              onClick={() => setMobileMenuOpen(false)}
+            >
+              Book Index
+            </Link>
+            <Link
               to="/search"
               className="block px-3 py-2 rounded-md hover:bg-secondary transition-colors"
               onClick={() => setMobileMenuOpen(false)}
