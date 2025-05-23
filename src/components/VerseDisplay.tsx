@@ -168,10 +168,10 @@ const VerseDisplay = ({ verseData }: VerseDisplayProps) => {
             </Button>
             
             {showSynonyms && (
-              <div className="grid grid-cols-2 md:grid-cols-3 gap-2 bg-secondary/30 p-3 rounded-md text-sm">
+              <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-2 bg-secondary/30 p-3 rounded-md text-sm">
                 {synonymsData.map((syn, index) => (
                   <div key={index} className="flex">
-                    <span className="font-semibold transliteration mr-2">{syn.word}—</span>
+                    <span className="font-semibold text-sm transliteration mr-2">{syn.word}—</span>
                     <span>{syn.meaning}</span>
                   </div>
                 ))}
